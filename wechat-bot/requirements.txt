@@ -1,0 +1,8 @@
+requests
+pyyaml
+openai
+playwright
+beautifulsoup4
+notion-client
+schedule
+loguru
